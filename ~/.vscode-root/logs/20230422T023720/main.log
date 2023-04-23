@@ -1,0 +1,69 @@
+2023-04-22 02:37:20.839 [info] [SharedProcess] using utility process
+2023-04-22 02:37:20.839 [info] update#setState idle
+2023-04-22 02:37:21.330 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-04-22 02:37:21.331 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-22 02:37:21.332 [info] [UtilityProcess type: shared-process, pid: 90074]: successfully created
+2023-04-22 02:37:21.332 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90075]: successfully created
+2023-04-22 02:37:21.391 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-04-22 02:37:21.393 [info] [UtilityProcess id: 1, type: extensionHost, pid: 90076]: successfully created
+2023-04-22 02:37:42.910 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90075]: attempting to kill the process...
+2023-04-22 02:37:42.912 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90075]: successfully killed the process
+2023-04-22 02:37:42.914 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90075]: received exit event with code 0
+2023-04-22 02:37:42.936 [info] [UtilityProcess id: 1, type: extensionHost, pid: 90076]: received exit event with code 0
+2023-04-22 02:37:42.936 [info] Extension host with pid 90076 exited with code: 0, signal: unknown.
+2023-04-22 02:37:43.189 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-22 02:37:43.190 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90305]: successfully created
+2023-04-22 02:37:43.265 [info] [UtilityProcess id: 2, type: extensionHost, pid: <none>]: creating new...
+2023-04-22 02:37:43.266 [info] [UtilityProcess id: 2, type: extensionHost, pid: 90306]: successfully created
+2023-04-22 02:37:50.730 [info] update#setState checking for updates
+2023-04-22 02:37:51.191 [info] update#setState idle
+2023-04-22 02:38:09.082 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90305]: attempting to kill the process...
+2023-04-22 02:38:09.083 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90305]: successfully killed the process
+2023-04-22 02:38:09.091 [info] [UtilityProcess id: 2, type: extensionHost, pid: 90306]: received exit event with code 0
+2023-04-22 02:38:09.091 [info] Extension host with pid 90306 exited with code: 0, signal: unknown.
+2023-04-22 02:38:09.092 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 90305]: received exit event with code 0
+2023-04-22 02:47:55.612 [info] [UtilityProcess id: 2, type: fileWatcher, pid: <none>]: creating new...
+2023-04-22 02:47:55.613 [info] [UtilityProcess id: 2, type: fileWatcher, pid: 91821]: successfully created
+2023-04-22 02:47:55.686 [info] [UtilityProcess id: 3, type: extensionHost, pid: <none>]: creating new...
+2023-04-22 02:47:55.688 [info] [UtilityProcess id: 3, type: extensionHost, pid: 91822]: successfully created
+2023-04-22 02:47:57.667 [info] [UtilityProcess id: 2, type: fileWatcher, pid: 91821]: attempting to kill the process...
+2023-04-22 02:47:57.668 [info] [UtilityProcess id: 2, type: fileWatcher, pid: 91821]: successfully killed the process
+2023-04-22 02:47:57.675 [info] [UtilityProcess id: 3, type: extensionHost, pid: 91822]: received exit event with code 0
+2023-04-22 02:47:57.675 [info] Extension host with pid 91822 exited with code: 0, signal: unknown.
+2023-04-22 02:47:57.676 [info] [UtilityProcess id: 2, type: fileWatcher, pid: 91821]: received exit event with code 0
+2023-04-22 03:37:50.734 [info] update#setState checking for updates
+2023-04-22 03:37:51.153 [info] update#setState idle
+2023-04-22 04:37:50.740 [info] update#setState checking for updates
+2023-04-22 04:37:51.187 [info] update#setState idle
+2023-04-22 05:50:06.606 [info] update#setState checking for updates
+2023-04-22 05:50:06.966 [info] update#setState idle
+2023-04-22 06:50:06.653 [info] update#setState checking for updates
+2023-04-22 06:50:07.006 [info] update#setState idle
+2023-04-22 07:50:06.678 [info] update#setState checking for updates
+2023-04-22 07:50:07.057 [info] update#setState idle
+2023-04-22 08:50:06.685 [info] update#setState checking for updates
+2023-04-22 08:50:07.036 [info] update#setState idle
+2023-04-22 09:50:06.722 [info] update#setState checking for updates
+2023-04-22 09:50:07.087 [info] update#setState idle
+2023-04-22 10:59:46.950 [info] update#setState checking for updates
+2023-04-22 10:59:47.300 [info] update#setState idle
+2023-04-22 12:10:30.221 [info] update#setState checking for updates
+2023-04-22 12:10:30.590 [info] update#setState idle
+2023-04-22 13:17:04.276 [info] update#setState checking for updates
+2023-04-22 13:17:04.627 [info] update#setState idle
+2023-04-22 14:22:57.992 [info] update#setState checking for updates
+2023-04-22 14:22:58.528 [info] update#setState idle
+2023-04-22 15:22:57.964 [info] update#setState checking for updates
+2023-04-22 15:22:58.309 [info] update#setState idle
+2023-04-22 16:22:57.924 [info] update#setState checking for updates
+2023-04-22 16:22:58.277 [info] update#setState idle
+2023-04-22 17:22:58.025 [info] update#setState checking for updates
+2023-04-22 17:22:58.383 [info] update#setState idle
+2023-04-22 18:22:58.007 [info] update#setState checking for updates
+2023-04-22 18:22:58.366 [info] update#setState idle
+2023-04-22 19:22:58.060 [info] update#setState checking for updates
+2023-04-22 19:22:58.411 [info] update#setState idle
+2023-04-22 20:22:58.098 [info] update#setState checking for updates
+2023-04-22 20:22:58.659 [info] update#setState idle
+2023-04-22 21:22:58.113 [info] update#setState checking for updates
+2023-04-22 21:22:58.498 [info] update#setState idle

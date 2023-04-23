@@ -1,0 +1,76 @@
+2023-04-22 02:37:22.259 [info] Log level: Info
+2023-04-22 02:37:22.265 [info] Validating found git in: "/usr/bin/git"
+2023-04-22 02:37:22.304 [info] Using git "2.39.2 (Apple Git-143)" from "/usr/bin/git"
+2023-04-22 02:37:47.090 [info] Log level: Info
+2023-04-22 02:37:47.100 [info] Validating found git in: "/usr/bin/git"
+2023-04-22 02:37:47.122 [info] Using git "2.39.2 (Apple Git-143)" from "/usr/bin/git"
+2023-04-22 02:37:47.139 [info] > git rev-parse --show-toplevel [15ms]
+2023-04-22 02:37:47.139 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.168 [info] > git rev-parse --show-toplevel [27ms]
+2023-04-22 02:37:47.169 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.180 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-22 02:37:47.180 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.192 [info] > git rev-parse --show-toplevel [11ms]
+2023-04-22 02:37:47.192 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.206 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-22 02:37:47.206 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.216 [info] > git rev-parse --show-toplevel [8ms]
+2023-04-22 02:37:47.216 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.224 [info] > git rev-parse --show-toplevel [7ms]
+2023-04-22 02:37:47.224 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.241 [info] > git rev-parse --show-toplevel [14ms]
+2023-04-22 02:37:47.241 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.251 [info] > git rev-parse --show-toplevel [8ms]
+2023-04-22 02:37:47.252 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.267 [info] > git rev-parse --show-toplevel [13ms]
+2023-04-22 02:37:47.267 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.281 [info] > git rev-parse --show-toplevel [13ms]
+2023-04-22 02:37:47.281 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.294 [info] > git rev-parse --show-toplevel [12ms]
+2023-04-22 02:37:47.294 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:47.306 [info] > git rev-parse --show-toplevel [10ms]
+2023-04-22 02:37:47.306 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
+2023-04-22 02:37:55.779 [info] > git rev-parse --show-toplevel [13ms]
+2023-04-22 02:37:55.779 [info] fatal: detected dubious ownership in repository at '/Users/mickey/Documents/practice/ruby-on-rails/my-api'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /Users/mickey/Documents/practice/ruby-on-rails/my-api
